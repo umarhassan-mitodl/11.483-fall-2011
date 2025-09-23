@@ -54,7 +54,7 @@ The urban economics lens about urban land and housing
 
 What drives land development and housing conditions according to the urban economics perspective?
 
-Look around the [Saigon South development website](http://www.saigonsouth.com) or another mega-project that you are interested in. What is being advertised as attractive to potential investors in these land development projects? Who are the players that are directly or implicitly participating in these projects? How might we understand their relationship to other members of society — what would be the categories and inter-relationships?
+Look around the {{% resource_link "67cf4ae6-9801-411c-87d6-c46b712fa803" "Saigon South development website" %}} or another mega-project that you are interested in. What is being advertised as attractive to potential investors in these land development projects? Who are the players that are directly or implicitly participating in these projects? How might we understand their relationship to other members of society — what would be the categories and inter-relationships?
 
 
 {{< tdclose >}}

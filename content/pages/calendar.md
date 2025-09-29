@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the schedule of seminar topics and key dates for
   the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -115,7 +117,7 @@ Before Ses #7: Schedule a meeting with the professor to discuss your paper or pr
 {{< tdopen >}}
 
 
-Guest speaker: {{% resource_link "f4a24fbf-1796-436e-abbe-20caeb3c5a57" "Kanarinka" %}}, artist and faculty, RISD
+Guest speaker: [Kanarinka](http://www.kanarinka.com/project/boston-coastline-future-past/), artist and faculty, RISD
 
 Affective geography and public space
 
@@ -157,7 +159,7 @@ Land trusts and affordable housing
 {{< tdopen >}}
 
 
-Guest speaker: {{% resource_link "0dd98d26-86fd-4a0b-a439-0e3ca4e6ba01" "May Louie" %}}, Dudley Street Neighborhood Initiative
+Guest speaker: [May Louie](http://static1.squarespace.com/static/5515d04fe4b0263cc20b3984/t/5527c7dce4b0c85c2c9cf841/1428670428546/Dudley+Street+Neighborhood+Initiative+youth+members+help+make+abandoned+lot+shine+-+Roxbury+-+Your+Town+-+Boston+8.6.12.pdf), Dudley Street Neighborhood Initiative
 
 Community's power of eminent domain
 

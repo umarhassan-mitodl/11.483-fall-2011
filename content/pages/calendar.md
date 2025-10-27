@@ -115,7 +115,7 @@ Before Ses #7: Schedule a meeting with the professor to discuss your paper or pr
 {{< tdopen >}}
 
 
-Guest speaker: [Kanarinka](http://www.kanarinka.com/project/boston-coastline-future-past/), artist and faculty, RISD
+Guest speaker: {{% resource_link "35107523-998f-4c98-8578-980ca11b921f" "Kanarinka" %}}, artist and faculty, RISD
 
 Affective geography and public space
 
@@ -157,7 +157,7 @@ Land trusts and affordable housing
 {{< tdopen >}}
 
 
-Guest speaker: [May Louie](http://static1.squarespace.com/static/5515d04fe4b0263cc20b3984/t/5527c7dce4b0c85c2c9cf841/1428670428546/Dudley+Street+Neighborhood+Initiative+youth+members+help+make+abandoned+lot+shine+-+Roxbury+-+Your+Town+-+Boston+8.6.12.pdf), Dudley Street Neighborhood Initiative
+Guest speaker: {{% resource_link "72ea0e7d-5ebd-4dd9-bada-93b365d3608c" "May Louie" %}}, Dudley Street Neighborhood Initiative
 
 Community's power of eminent domain
 

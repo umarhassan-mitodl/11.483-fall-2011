@@ -45,9 +45,9 @@ Introduction to Ho Chi Minh City cases: The urban periphery and urban core. With
 
 ### Optional Reading
 
-"[The Challenge of Slums: Global Report on Human Settlements](https://unhabitat.org/the-challenge-of-slums-global-report-on-human-settlements-2003)." UN Human Settlements Programs, 2003. (Read Findings, Prologue, Part 1).
+"{{% resource_link "847cd2f2-ecd0-42a1-9dd4-a3d7d23934b7" "The Challenge of Slums: Global Report on Human Settlements" %}}." UN Human Settlements Programs, 2003. (Read Findings, Prologue, Part 1).
 
-International Housing Coalition. "[The Challenge of an Urban World](http://www.intlhc.org/newsletter/publications.php)" and the "[The Challenge of an Urban World: IHC Recommendations Improve U.S. Foreign Assistance](http://www.intlhc.org/newsletter/publications.php)." 
+International Housing Coalition. "{{% resource_link "c0779eb8-dd6e-4416-b8aa-5a9c411669c4" "The Challenge of an Urban World" %}}" and the "{{% resource_link "c0779eb8-dd6e-4416-b8aa-5a9c411669c4" "The Challenge of an Urban World: IHC Recommendations Improve U.S. Foreign Assistance" %}}." 
 
 
 {{< tdclose >}}
@@ -67,11 +67,11 @@ The urban economics lens
 
 [Central Trading and Development Group](http://www.saigonsouth.com/ ), 2004.
 
-DiPasquale, Denise, and William C. Wheaton. "Market for Real Estate Assets and Space: A Conceptual Framework." _Journal of the American Real Estate and Urban Economics Association_ 20, no. 1 (1992): 181-97. ([PDF - 3.5MB](http://www.unibg.it/dati/corsi/60002/37673-DiPasquale-Wheaton.pdf))
+DiPasquale, Denise, and William C. Wheaton. "Market for Real Estate Assets and Space: A Conceptual Framework." _Journal of the American Real Estate and Urban Economics Association_ 20, no. 1 (1992): 181-97. ({{% resource_link "ae9d6139-6a0d-4e67-9b9a-62a652c6cb88" "PDF - 3.5MB" %}})
 
-Demsetz, Harold. "[Toward a Theory of Property Rights](http://www.jstor.org/pss/1821637)." _American Economic Review_ 57, no. 2 (May 1967): 347-59.
+Demsetz, Harold. "{{% resource_link "3ddfb564-a147-472d-82d8-4160bc6af158" "Toward a Theory of Property Rights" %}}." _American Economic Review_ 57, no. 2 (May 1967): 347-59.
 
-Kim, Annette M. "[North Versus South: The Impact of Social Norms in the Market Pricing of Private Property Rights in Vietnam](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1680750)." _World Development_ 35, no. 12 (2007): 2079-95.
+Kim, Annette M. "{{% resource_link "812446e3-dd1d-49df-80aa-811a07ec0695" "North Versus South: The Impact of Social Norms in the Market Pricing of Private Property Rights in Vietnam" %}}." _World Development_ 35, no. 12 (2007): 2079-95.
 
 ### Optional Reading
 
@@ -101,11 +101,11 @@ Political and sociological theory lens about urban land and housing
 
 Hang, To Thi Thuy, et al. "Assessing the Socio-Economic and Environmental Impact of South Saigon Urban Development Project and Providing Recommendations for Redressing Environmental and Socio-Economic Consequences." Ho Chi Minh City People's Committee's Institute for Economic Research, 1997.
 
-Eyal, Gil, Iván Szelényi, et al. "[The Utopia of Postsocialist Theory and the Ironic View of History in Neoclassical Sociology](http://www.jstor.org/pss/10.1086/320300?searchUrl=%2Faction%2FdoBasicSearch%3FQuery%3DThe%2BUtopia%2Bof%2BPostsocialist%2BTheory%2Band%2Bthe%2BIronic%2BView%2Bof%2BHistory%2Bin%2BNeoclassical%2BSociology%26acc%3Doff%26wc%3Don&Search=yes)." _American Journal of Sociology_ 106, no. 4 (2001): 1121-28.
+Eyal, Gil, Iván Szelényi, et al. "{{% resource_link "d72222e3-8451-4f31-a491-cb7f696ead5a" "The Utopia of Postsocialist Theory and the Ironic View of History in Neoclassical Sociology" %}}." _American Journal of Sociology_ 106, no. 4 (2001): 1121-28.
 
 ### Optional Reading
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262530354) Castells, Manuel. [Chapters 5, 8, and section 3 of chapter 9 in _The Urban Question - A Marxist Approach_](https://mitpress.mit.edu/9780262530354). MIT Press, 1979. ; pp: 73-85, 115-128, and 215-233. ISBN: 9780262530354.
+{{% resource_link "170aedc7-7c3f-40d7-89ab-e288aa460028" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Castells, Manuel. {{% resource_link "170aedc7-7c3f-40d7-89ab-e288aa460028" "Chapters 5, 8, and section 3 of chapter 9 in _The Urban Question - A Marxist Approach_" %}}. MIT Press, 1979. ; pp: 73-85, 115-128, and 215-233. ISBN: 9780262530354.
 
 Dear, Michael J., and Allen John Scott.  "The Urban Process Under Capitalism: A Framework for Analysis." In _Urbanization and Urban Planning in Capitalist Society_. Methuen, 1981, pp. 91-122. ISBN: 9780416746501.
 
@@ -133,13 +133,13 @@ Legal theory lens about property rights
 
 Ellickson, Robert C., Carol Marguerite Rose, and Bruce A. Ackerman._Perspectives on Property Law_. Aspen Publishers, 2002. ISBN: 9780735528741.
 
-Ellickson, Robert C. _Order Without Law: How Neighbors Settle Disputes_. Harvard University Press, 1991, pp. 210-21. ISBN: 9780674641693. \[Preview with [Google Books](http://books.google.com/books?id=3le1NaQ_FtoC&printsec=frontcover&dq=Order+Without+Law:+How+Neighbors+Settle+Disputes&hl=en&src=bmrr&ei=RPGbTt7uOoiyrAeu2aWHBA&sa=X&oi=book_result&ct=result&resnum=1&ved=0CDAQ6AEwAA#v=onepage&q&f=false)\]
+Ellickson, Robert C. _Order Without Law: How Neighbors Settle Disputes_. Harvard University Press, 1991, pp. 210-21. ISBN: 9780674641693. \[Preview with {{% resource_link "1f731154-1a33-461f-a86d-38d8b569dc82" "Google Books" %}}\]
 
-Acheson, James M. _The Lobster Gangs of Maine_." UPNE, 1988, pp. 129-35. ISBN: 9780874514513. \[Preview with [Google Books](http://books.google.com/books?id=u0XJno-q0_IC&pg=PAfrontcover)\]
+Acheson, James M. _The Lobster Gangs of Maine_." UPNE, 1988, pp. 129-35. ISBN: 9780874514513. \[Preview with {{% resource_link "e57c89ef-e6a8-472f-9807-f811869d3fd3" "Google Books" %}}\]
 
-Rose, Carol M. "Property As Storytelling: Perspectives from Game Theory, Narrative Theory, Feminist Theory." _Yale Law Journal_ 2 (1990): 37-57. ([PDF - 1.2MB](http://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=2821&context=fss_papers&sei-redir=1&referer=http%3A%2F%2Fwww.google.co.in%2Furl%3Fsa%3Dt%26source%3Dweb%26cd%3D1%26ved%3D0CCAQFjAA%26url%3Dhttp%253A%252F%252Fdigitalcommons.law.yale.edu%252Fcgi%252Fviewcontent.cgi%253Farticle%253D2821%2526context%253Dfss_papers%26rct%3Dj%26q%3DProperty%2520As%2520Storytelling%253A%2520Perspectives%2520from%2520Game%2520Theory%252C%2520Narrative%2520Theory%252C%2520Feminist%2520Theory%26ei%3DePGbTvGBFoWGrAfj37WABA%26usg%3DAFQjCNHMBhrOa-INtim-BiGz6uD2S6JZWw%26cad%3Drja#search=%22Property%20As%20Storytelling%3A%20Perspectives%20from%20Game%20Theory%2C%20Narrative%20Theory%2C%20Feminist%20Theory%22))
+Rose, Carol M. "Property As Storytelling: Perspectives from Game Theory, Narrative Theory, Feminist Theory." _Yale Law Journal_ 2 (1990): 37-57. ({{% resource_link "0ef76eae-e51e-4cdd-8c31-057c69593aa6" "PDF - 1.2MB" %}})
 
-Pipes, Richard. "[Human Nature and the Fall of Communism](http://www.jstor.org/pss/3824382)." _Bulletin of the American Academy of Arts and Sciences_ 49 (1996): 38-52.
+Pipes, Richard. "{{% resource_link "03fb00af-05c3-4c96-b51c-d4c690c92e11" "Human Nature and the Fall of Communism" %}}." _Bulletin of the American Academy of Arts and Sciences_ 49 (1996): 38-52.
 
 Goffman, Erving. "Culture and Human Nature." In _Asylums: Essays on the Social Situation of Mental Patients and Other Inmates_. Garden City, NY: Anchor, 1961, pp. 18-21, and 244-54. ISBN: 9780385000161.
 
@@ -181,21 +181,21 @@ Everyday practices in public space: Way making, street vending
 
 ### Required Reading
 
-Ellickson, Robert C. "Controlling Chronic Misconduct in City Spaces: Of Panhandlers, Skid Rows, and Public-Space Zoning." _The Yale Law Journal_ 105 no. 5 (1996):1165-1248. ([PDF](http://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=1407&context=fss_papers))
+Ellickson, Robert C. "Controlling Chronic Misconduct in City Spaces: Of Panhandlers, Skid Rows, and Public-Space Zoning." _The Yale Law Journal_ 105 no. 5 (1996):1165-1248. ({{% resource_link "8642182d-334d-49ca-b94a-22c20e28425b" "PDF" %}})
 
-["Chinese Street Vendors Lash out Against Police Tyranny](http://observers.france24.com/content/20110616-chinese-street-vendors-lash-out-against-police-tyranny-xintang)." _France 24: International News._ June 16, 2011.
+{{% resource_link "547cf932-7e17-4d15-9025-acc1b2683b00" "\"Chinese Street Vendors Lash out Against Police Tyranny" %}}." _France 24: International News._ June 16, 2011.
 
 Chase, John, Margaret Crawford, and John Kaliski.  _Everyday Urbanism: Expanded_. New York, NY: Monacelli, 2008, pp. 22-35, and 88-109. ISBN: 9781580932011.
 
 Hess, Paul. "Walkability in Torontoʼs Apartment Neighbourhoods: Preliminary Report on Scarborough Village Walkability Workshop." Toronto: Department of Geography and Programme in Planning, University of Toronto, 2009.
 
-Blomley, Nicholas. "[How to Turn a Beggar into a Bus Stop: Law, Traffic and the 'Function of the Place](http://usj.sagepub.com/content/44/9/1697.abstract)'." _Urban Studies_ 44, no. 9 (2007): 1697-712.
+Blomley, Nicholas. "{{% resource_link "dfa535c8-e063-4679-b145-f1041cdf8671" "How to Turn a Beggar into a Bus Stop: Law, Traffic and the 'Function of the Place" %}}'." _Urban Studies_ 44, no. 9 (2007): 1697-712.
 
-Yiftachel, Oren. "[Re-engaging Planning Theory? Towards 'South-Eastern' Perspectives](http://plt.sagepub.com/content/5/3/211.extract)." _Planning Theory_ 5, no. 3 (2006): 211-22.
+Yiftachel, Oren. "{{% resource_link "b97f0662-b1a7-4ac3-aba4-9e0220867bcc" "Re-engaging Planning Theory? Towards 'South-Eastern' Perspectives" %}}." _Planning Theory_ 5, no. 3 (2006): 211-22.
 
 ### Optional Reading
 
-Sanyal, Bish. "Critical about Criticality." _Critical Planning_ 15 (2008):143-160. ([PDF - 1.94MB](http://web.mit.edu/sanyal/www/articles/CriticalPlanning.pdf))
+Sanyal, Bish. "Critical about Criticality." _Critical Planning_ 15 (2008):143-160. ({{% resource_link "35ac1e7e-daee-4ff6-affa-6511b0430f54" "PDF - 1.94MB" %}})
 
 Blomley, Nicholas. _Rights of Passage: Sidewalks and the Regulation of Public Flow_. New York: Routledge, 2011. ISBN: 9780415575614
 
@@ -207,7 +207,7 @@ de Certeau, M. "Walking in the City." In _The Practice of Everyday Life_. Los An
 
 LeFebvre, H. Chapter 1 in _The Production of Space_. New York: Wiley-Blackwell, 1992. ISBN: 9780631181774.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262123075) Loukaitou-Sideris, Anastasia, and Renia Ehrenfeucht. Chapter 10 in [_Sidewalks: Conflict and Negotiation over Public Space_](https://mitpress.mit.edu/9780262123075). Cambridge: MIT Press, 2009. ISBN: 9780262123075.
+{{% resource_link "72914563-b760-44cc-8e78-0af525d34766" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Loukaitou-Sideris, Anastasia, and Renia Ehrenfeucht. Chapter 10 in {{% resource_link "72914563-b760-44cc-8e78-0af525d34766" "_Sidewalks: Conflict and Negotiation over Public Space_" %}}. Cambridge: MIT Press, 2009. ISBN: 9780262123075.
 
 
 {{< tdclose >}}
@@ -225,15 +225,15 @@ Critical cartography and the unmasking of spatial relations; the construction of
 
 ### Required Reading
 
-Roy, Ananya. "Transnational Trespassings: The Geopolitics of Urban Informality." In _Urban Informality: Transnational Perspectives from the Middle East, Latin America, and South Asia_.  Edited by Ananya Roy and Nezar AlSayyad. Lanham, MD: Lexington Books, 2004, pp. 289-313. ISBN: 9780739107416. \[Preview with [Google Books](http://books.google.com/books?id=RxAGdfEiIXEC&pg=PA289=onepage)\]
+Roy, Ananya. "Transnational Trespassings: The Geopolitics of Urban Informality." In _Urban Informality: Transnational Perspectives from the Middle East, Latin America, and South Asia_.  Edited by Ananya Roy and Nezar AlSayyad. Lanham, MD: Lexington Books, 2004, pp. 289-313. ISBN: 9780739107416. \[Preview with {{% resource_link "12e6d6c6-ed46-4cc7-a8aa-bcd01c27128c" "Google Books" %}}\]
 
-Verma, Gita Dewan. "[Indore's Habitat Improvement Project: Success or Failure?](http://dx.doi.org/10.1016/S0197-3975(99)00031-4)" _Habitat International_ 24, no. 1 (2000): 91-117.
+Verma, Gita Dewan. "{{% resource_link "f5d6a5f2-6b27-4d0d-a892-2211fe0d18f9" "Indore's Habitat Improvement Project: Success or Failure?" %}}" _Habitat International_ 24, no. 1 (2000): 91-117.
 
 Kim, Annette M. Chapter 5 in _Sidewalk City: Remapping the Public and Space in Ho Chi Minh City._ University of Chicago Press. Publication forthcoming.
 
-Mundy, Barbara E. _The Mapping of New Spain: Indigenous Cartography and the Maps of the Relaciones Geográficas._ Chicago: University of Chicago Press, 2000. Preface. ISBN: 9780226550978. \[Preview with [Google Books](http://books.google.co.in/books?id=NCsvfLGfvygC&pg=PA181&lpg=PA181&dq=The+Mapping+of+New+Spain:+Indigenous+Cartography+and+the+Maps+of+the+Relaciones+Geogr%C3%A1ficas&source=bl&ots=a28XV2KDBs&sig=4bRfoAVY-DVx2m4TczJ8kqdrBWo&hl=en&ei=8gmcTu_RGITmrAeinq39Aw&sa=X&oi=book_result&ct=result&resnum=5&ved=0CDQQ6AEwBA#v=onepage&q&f=false)\]
+Mundy, Barbara E. _The Mapping of New Spain: Indigenous Cartography and the Maps of the Relaciones Geográficas._ Chicago: University of Chicago Press, 2000. Preface. ISBN: 9780226550978. \[Preview with {{% resource_link "c1f3113d-107c-4cf6-8dc1-0fdb8e8044bc" "Google Books" %}}\]
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262581523) Hayden, Dolores.  Chapters 1 and 2 in [_The Power of Place: Urban Landscapes as Public History_](https://mitpress.mit.edu/9780262581523). Cambridge: MIT Press, 1997.  ISBN: 9780262581523. \[Preview with [Google Books](http://books.google.com/books?id=bpQB4ogOQscC&pg=PA2=onepage)\]
+{{% resource_link "fc45b807-25fb-415d-bf28-0637a8682f2a" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Hayden, Dolores.  Chapters 1 and 2 in {{% resource_link "fc45b807-25fb-415d-bf28-0637a8682f2a" "_The Power of Place: Urban Landscapes as Public History_" %}}. Cambridge: MIT Press, 1997.  ISBN: 9780262581523. \[Preview with {{% resource_link "bf0e037b-5f8c-4ae3-950f-747137966eca" "Google Books" %}}\]
 
 ### Optional Reading
 
@@ -277,7 +277,7 @@ Guest Speaker: Kanarinka, artist and faculty, RISD
 
 Take a look at the projects that Kanarinka has done on her website and her research group at RISD:
 
-[http://www.ikatun.org/kanarinka/](http://www.kanarinka.com/)
+{{% resource_link "a72ed5fb-0ecb-4150-b6de-1a6003313314" "http://www.ikatun.org/kanarinka/" %}}
 
 
 {{< tdclose >}}
@@ -297,17 +297,17 @@ Land titling and regularization
 
 Soto, Hernando de.  _The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else_. New York: Basic Books, 2000. Chapters 3 and 6. ISBN: 9780465016143.
 
-World Bank. _Housing: Enabling Markets to Work_, 1993. ISBN: 9780821324349. ([PDF - 9.1MB](http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2002/02/27/000178830_98101911194018/Rendered/PDF/multi0page.pdf))
+World Bank. _Housing: Enabling Markets to Work_, 1993. ISBN: 9780821324349. ({{% resource_link "9d5c899f-96b3-4151-8d0c-ed10014cd6a3" "PDF - 9.1MB" %}})
 
-Hull, Matthew S. "Ruled by Records: The Expropriation of Land and the Misappropriation of Lists in Islamabad." _American Ethnologist_ 35, no. 4 (2008): 501-18. ([PDF](http://deepblue.lib.umich.edu/bitstream/2027.42/75363/1/j.1548-1425.2008.00095.x.pdf))
+Hull, Matthew S. "Ruled by Records: The Expropriation of Land and the Misappropriation of Lists in Islamabad." _American Ethnologist_ 35, no. 4 (2008): 501-18. ({{% resource_link "f2fdc49c-e8d4-42cc-9292-90e93fdf2c5a" "PDF" %}})
 
-Kim, Annette M. "North Versus South: The Impact of Social Norms in the Market Pricing of Private Property Rights in Vietnam." _World Development_ 35, no. 12 (2007): 2079-95. ([PDF](http://viet-studies.info/kinhte/North_South_Pricing_Private_Property_WD.pdf))
+Kim, Annette M. "North Versus South: The Impact of Social Norms in the Market Pricing of Private Property Rights in Vietnam." _World Development_ 35, no. 12 (2007): 2079-95. ({{% resource_link "098d708b-5b13-403a-b581-2710c63d0a7a" "PDF" %}})
 
 ### Optional Reading
 
-Buckley, Robert M., and Jerry Kalarickal. _Thirty Years of World Bank Shelter Lending: What Have We Learned? (Directions in Development)_. Washington D.C.: World Bank, 2006. ISBN: 9780821365779. \[Preview with [Google Books](http://books.google.com/books?id=LQvHOW78hrIC&pg=Pafrontcover)\]
+Buckley, Robert M., and Jerry Kalarickal. _Thirty Years of World Bank Shelter Lending: What Have We Learned? (Directions in Development)_. Washington D.C.: World Bank, 2006. ISBN: 9780821365779. \[Preview with {{% resource_link "30ae3550-b0f4-4012-8f37-24e71de4d7b5" "Google Books" %}}\]
 
-(For those interested in a Word Bank perspective on the recent history of shelter programs) ([PDF](http://siteresources.worldbank.org/INTHOUSINGLAND/Resources/339552-1153163100518/Thirty_Years_Shelter_Lending.pdf))
+(For those interested in a Word Bank perspective on the recent history of shelter programs) ({{% resource_link "51927e8f-7ec4-4120-aa21-7e2dfb35e7a6" "PDF" %}})
 
 "The Challenge of Scale–Nationwide Upgrading." Cities Alliance Annual Report, 2003.
 
@@ -337,11 +337,11 @@ Land trusts and affordable housing
 
 ### Required Reading
 
-Medoff, Peter, and Holly Sklar.  in _Streets of Hope: The Fall and Rise of an Urban Neighborhood_. Boston: South End Press, 1994. Chapters 5 and 6. ISBN: 9780896084827. \[Preview with [Google Books](http://books.google.com/books?id=SrRF5Prt7NgC&pg=PA115=onepage)\]
+Medoff, Peter, and Holly Sklar.  in _Streets of Hope: The Fall and Rise of an Urban Neighborhood_. Boston: South End Press, 1994. Chapters 5 and 6. ISBN: 9780896084827. \[Preview with {{% resource_link "beb1ee75-8b54-4691-9a47-906ce557686a" "Google Books" %}}\]
 
 Yahya, Saad S. "Community Land Trusts and Other Tenure Innovations in Kenya." In _Land, Rights and Innovation: Improving Tenure Security for the Urban Poor (Urban Management Series)_. Edited by Geoffery K. Payne. London: ITDG Publishing, 2002, pp. 233-63. ISBN:9781853395444.
 
-Davis, John Emmeus. "Shared Equity Homeownership: The Changing Landscape of Resale-Restricted, Owner-Occupied Housing." National Housing Institute, 2007.  ([PDF - 1.2MB](http://www.nhi.org/pdf/SharedEquityHome.pdf))
+Davis, John Emmeus. "Shared Equity Homeownership: The Changing Landscape of Resale-Restricted, Owner-Occupied Housing." National Housing Institute, 2007.  ({{% resource_link "f8451c90-6cb5-4fc4-8276-a1fc1014e751" "PDF - 1.2MB" %}})
 
 
 {{< tdclose >}}
@@ -371,13 +371,13 @@ Land takings and compensation: How to make change, social cognition
 
 ### Required Reading
 
-Kim, Annette. M. "[Introduction: Real Rights to the City—Cases of Property Rights Changes Towards Equity in Eastern Asia](http://usj.sagepub.com/content/48/3/459.extract)." _Urban Studies_ 48 (2011): 459-69.
+Kim, Annette. M. "{{% resource_link "d27c8f50-7752-4471-9048-e2a85b7cb775" "Introduction: Real Rights to the City—Cases of Property Rights Changes Towards Equity in Eastern Asia" %}}." _Urban Studies_ 48 (2011): 459-69.
 
-———. "[Talking Back: The Role of Narratives in Vietnamʼs Recent Land Compensation Changes](http://usj.sagepub.com/content/48/3/493.abstract?rss=1)." _Urban Studies_, 48 (2011): 493-508.
+———. "{{% resource_link "65f92ccb-3aa9-4172-89ec-d0eff128cf54" "Talking Back: The Role of Narratives in Vietnamʼs Recent Land Compensation Changes" %}}." _Urban Studies_, 48 (2011): 493-508.
 
-Po, L-C. "[Property Rights Reforms and Changing Grassroots Governance in China's Urban-Rural Peripheries: The Case of Changping District in Beijing](http://usj.sagepub.com/content/48/3/509.short)." _Urban Studies_ 48 (2011): 509-28.
+Po, L-C. "{{% resource_link "08c8ebbb-ff2f-4e6f-9ed6-21189a384c7b" "Property Rights Reforms and Changing Grassroots Governance in China's Urban-Rural Peripheries: The Case of Changping District in Beijing" %}}." _Urban Studies_ 48 (2011): 509-28.
 
-Kim, Annette M. "[Unimaginable Change: Future Directions in Planning Practice and Research About Institutional Reform](http://www.tandfonline.com/doi/abs/10.1080/01944363.2011.619462?journalCode=rjpa20)." _Journal of the American Planning Association_ 77 (2011): 328-37.
+Kim, Annette M. "{{% resource_link "859d8a0b-d8a3-4fe1-b2d3-9ead21d5edaa" "Unimaginable Change: Future Directions in Planning Practice and Research About Institutional Reform" %}}." _Journal of the American Planning Association_ 77 (2011): 328-37.
 
 ### Optional Reading
 
